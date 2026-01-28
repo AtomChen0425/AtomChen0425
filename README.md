@@ -18,15 +18,6 @@ I enjoy building **efficient, reliable, and well-structured software**, and I li
 - 🤖 Worked on **robot simulation & offline programming software**
 - 🎮 Interested in **game engines, ECS architecture, and performance optimization**
 
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtomChen0425&show_icons=true&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtomChen0425&layout=compact)
-
 ---
 
 ## 📫 Connect With Me
