@@ -1,5 +1,7 @@
 # Hi 👋 I'm Yuhang Chen
 
+![](https://komarev.com/ghpvc/?username=AtomChen0425)
+
 🎓 Electrical & Computer Engineering  
 💻 Software Engineer | C++ / C# / Python  
 🤖 Robotics, Game Engines, and Systems Programming  
