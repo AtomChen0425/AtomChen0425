@@ -44,11 +44,6 @@ I enjoy building **efficient, reliable, and well-structured software**, and I li
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat&logo=githubactions&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=postman&logoColor=white)
-![ECS](https://img.shields.io/badge/ECS-4B0082?style=flat)
-![State Machines](https://img.shields.io/badge/State_Machines-2F4F4F?style=flat)
-![Robotics](https://img.shields.io/badge/Robotics-003366?style=flat)
-![Game Engine](https://img.shields.io/badge/Game_Engine-1E90FF?style=flat)
-![Performance](https://img.shields.io/badge/Performance_Optimization-228B22?style=flat)
 ---
 
 ## 📫 Connect With Me
